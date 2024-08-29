@@ -1,6 +1,6 @@
 function Task(props) {
 	return(
-		<li>{props.description} <input type = "checkbox" checked = "false"/> </li>
+		<li>{props.description} <input type = "checkbox" checked = "true"/> </li>
 	);
 }
 
